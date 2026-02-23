@@ -1,0 +1,3 @@
+2026-02-11 13:35:36,545 - Test message
+2026-02-11 13:35:40,747 - Failed to send email: Connection unexpectedly closed
+2026-02-11 13:49:52,255 - [INFO] Blocked IP: 192.168.1.10 for 40 seconds (testing only, will not re-block)
